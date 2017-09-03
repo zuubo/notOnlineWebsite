@@ -9,7 +9,7 @@ p {
 }
 
 body {
-  background-color: #FDE3A7;
+  background: linear-gradient(to bottom right, #FFF5C3, #9452A5);
 }
 
 .helvetica {
