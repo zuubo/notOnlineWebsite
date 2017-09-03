@@ -1,1 +1,17 @@
+h1 {
+  text-align: center;
+  font-size: 500%;
+}
 
+p {
+  width: 50%;
+  margin: auto;
+}
+
+body {
+  background-color: #FDE3A7;
+}
+
+.helvetica {
+  font-family: helvetica;
+}
