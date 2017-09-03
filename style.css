@@ -9,9 +9,10 @@ p {
 }
 
 body {
-  background: linear-gradient(to bottom right, #FFF5C3, #9452A5);
+  background: linear-gradient(to bottom right, #F05F57, #360940);
 }
 
 .helvetica {
   font-family: helvetica;
+  color: white;
 }
